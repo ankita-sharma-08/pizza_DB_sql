@@ -1,4 +1,3 @@
-# pizza_DB_sql
 # 🍕 Pizza_DB Mini Project
 This is a mini project based on the Pizza_DB database.
 
