@@ -54,20 +54,10 @@ The database includes the following key tables:
 ---
 
 ## How to Use
-
-1. Import the database:
-
-   ```bash
-   mysql -u your_username -p pizza_db < pizza_db.sql
-   ```
-
-2. Run the analysis queries:
-
-   ```bash
-   mysql -u your_username -p pizza_db < PizzaDB_solutions.sql
-   ```
-
-You can also run individual queries from the `.sql` file in any MySQL client or interface (e.g., MySQL Workbench, DBeaver).
+1. Open MySQL Workbench (or any other MySQL client).
+2. Create a new schema (e.g., pizza_db).
+3. Run the pizza_db.sql file to populate the tables and data.
+4. Use the PizzaDB_solutions.sql file to explore the database and run analytics queries.
 
 ---
 
